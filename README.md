@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saurav Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **AI Enhancement in Health Sector**
 
-- 🌱 I’m currently learning **pandas and opencv**
+- 🌱 I’m currently learning **Deep-Learning and Image Processing**
 
 - 🤝 I’m looking for help with **Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://singhsaurav062.github.io/Portfolio/](https://singhsaurav062.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **Frontend Development, C++ and Python**
 
 - 📫 How to reach me **singhsaurav062@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TMLvnhXCtsN_4ME1Q7EnLHaR3s1ArH18/view?usp=drive_link](https://drive.google.com/file/d/1TMLvnhXCtsN_4ME1Q7EnLHaR3s1ArH18/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QS5NCZNepv6ZfVjCwLJ4uQ47Ga-bfRR5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

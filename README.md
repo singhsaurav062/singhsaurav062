@@ -5,15 +5,9 @@
 
 - 🌱 I’m currently learning **Deep-Learning and Image Processing**
 
-- 🤝 I’m looking for help with **Data Structures**
-
-- 👨‍💻 All of my projects are available at [https://singhsaurav062.github.io/Portfolio/](https://singhsaurav062.github.io/Portfolio/)
-
-- 💬 Ask me about **Frontend Development, C++ and Python**
+- 💬 Ask me about **Full-Stack Development, C++ and Python**
 
 - 📫 How to reach me **singhsaurav062@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QS5NCZNepv6ZfVjCwLJ4uQ47Ga-bfRR5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
